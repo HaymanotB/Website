@@ -1,0 +1,22 @@
+---
+title: "Expreniece"
+image: images/portrait.jpg
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+-   **Survey Manager** at: [Center for Evaluation and Development
+    (C4ED)](https://c4ed.org/) from  '2023-05-01' to present
+
+-   **Senior Research Officer** at: [Frontieri consulting
+    Plc](https://frontieri.com/) from
+    '2022-07-04' to '2023-04-30'
+
+-   **Biostatistics Experience and Technical Assistance (BETA)
+    internship/consulting** at: [CDC
+    Ethiopa](https://www.cdc.gov/globalhealth/countries/ethiopia/) from
+    '2021-07-01' to '2022-07-12'
+
+-   **Lecturer** at: "[Debre Markos University](http://www.dmu.edu.et/)"
+    from '2013-01-01' date_end: ''

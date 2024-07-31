@@ -1,0 +1,11 @@
+---
+image: pages/images/avatar1.jpggggggggg
+
+---
+
+### Welcome to my website.
+
+I am a Biostatistician
+
+
+![](pages/images/avatar1.jpg)

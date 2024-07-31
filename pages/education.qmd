@@ -1,0 +1,16 @@
+---
+title: "Education"
+image: images/portrait.jpg
+---
+
+- **Stellenbosch University, South Africa| CapeTown**
+    
+     - MSc in Biostatistics|January 2020 - April 2022
+      
+- **Addis Ababa University, Ethiopia| Addis Ababa, Ethiopia**
+    
+     - MSc in Statistics(Biostatistics)| Sptember 2015 - July 2017
+
+- **Wollo University, Ethiopia| Dessie, Ethiopia**
+    
+     - BSc in Statistics | September 2009 - July 2012

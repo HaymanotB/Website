@@ -1,0 +1,35 @@
+project:
+  type: website
+
+website:
+  site-url: "https://yebelay.netlify.app/"
+  title: "Yebelay Berehan"
+  description: "Welcome to my website"
+  navbar:
+    left:
+      - pages/about.qmd
+      - pages/education.qmd
+      - pages/exprience.qmd
+      - pages/puplications.qmd
+      - pages/presentations.qmd
+      
+    right:
+      - blog.qmd
+      - icon: github
+        href: https://github.com/Yebelay
+  page-footer: 
+    center: "Copyright 2024, Yebelay Berehan" 
+    border: true
+  # repo-url: "https://github.com/pkollenda/website/"
+  # repo-actions: [issue]
+  open-graph: true
+format:
+  html:
+    # page-layout: full
+    theme:
+      light: flatly
+      dark: darkly
+    # css: styles.css
+# Other nice themes: lumen, sandstone (with dark banner) or flatly & darkly
+
+
