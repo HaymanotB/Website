@@ -109,7 +109,7 @@
     "href": "pages/exprience.html",
     "title": "Expreniece",
     "section": "",
-    "text": "Survey Manager at: Center for Evaluation and Development (C4ED) from ‘2023-05-01’ to present\nSenior Research Officer at: Frontieri consulting Plc from ‘2022-07-04’ to ‘2023-04-30’\nBiostatistics Experience and Technical Assistance (BETA) internship/consulting at: CDC Ethiopa from ‘2021-07-01’ to ‘2022-07-12’\nLecturer at: “Debre Markos University” from ‘2013-01-01’ date_end: ’’"
+    "text": "Lecturer at: “Assosa University” from ‘2017-10-23’ to Present: ’’\nBiostatistician at: Loza Statistical consultancy and training Service Plc from ‘2022-05-01’ to ‘2023-04-30’\nData Manager Remotely at Jeju statistical consultancy plc from ‘2023-05-05’ to present"
   },
   {
     "objectID": "pages/publication.html",
@@ -187,5 +187,12 @@
     "title": "How far does that ferris wheel roll?",
     "section": "Footnotes",
     "text": "Footnotes\n\n\nSidenote: Neal Grantham has a cool Shiny app to browse previous tidy tuesday submissions.↩︎\nPerceptive readers may have noticed that this is just the diameter of the wheel. But, doesn’t that sound much less exciting?↩︎"
+  },
+  {
+    "objectID": "pages/lecture.html",
+    "href": "pages/lecture.html",
+    "title": "Lecture Notes",
+    "section": "",
+    "text": "Bahir Dar University, Ethiopia| Bahir Dar, Ethiopia\n\nMSc in Biostatistics | Sptember 2020 - August 2022\n\nDebre Markos University, Ethiopia| Debre Markos, Ethiopia\n\nBSc in Statistics | September 2014 - July 2017"
   }
 ]

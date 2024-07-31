@@ -2,16 +2,17 @@ project:
   type: website
 
 website:
-  site-url: " "
+  site-url: "https://haymanot.netlify.app"
   title: "Haymanot Berelie Berehan"
   description: "Welcome to my website"
   navbar:
     left:
       - pages/about.qmd
-      - pages/education.qmd
+      - pages/lecture.qmd
       - pages/exprience.qmd
       - pages/puplications.qmd
       - pages/presentations.qmd
+      
       
     right:
       - blog.qmd
