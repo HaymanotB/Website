@@ -32,7 +32,7 @@
     "href": "posts/nt_alphabetic-sorting/index.html",
     "title": "Alphabetically sorting your source code character vectors",
     "section": "",
-    "text": "For week 33 of #TidyTuesday 2022 I had to manually select names from a dataset. So, I typed something like\n\nfilter(df, name %in% c(\"The Witcher\", \"Hamilton\", \"Westworld\", \"Sense8\"))\n\nDo you see what’s wrong with this? No? Congratulations 🎉, you have a much healthier, more pragmatic approach to coding than I do.\nI, on the other hand, was bothered by the fact that the series names were not in alphabetical order. But, “hey”, I thought, R is a “well-developed, simple and effective programming language”, so why not use it to bring my source code into alphabetical order.\n\n\n\n\n\n\n\n\n\n\n\nThe context is not really important, so I won’t go into detail on what this dataset was about. The trick is super generally and applies to many situations anyways. But you can see my final plot on Twitter and the accompanying blog post on my website.\n\n\n\n\nMy goal is to get alphabetically sorted output that I can simply copy + paste into my source file (or write to the file with write_lines()).\n\nx <- c(\"The Witcher\", \"Hamilton\", \"Westworld\", \"Sense8\")\nprint(x)\n\n[1] \"The Witcher\" \"Hamilton\"    \"Westworld\"   \"Sense8\"     \n\ndput(sort(x))\n\nc(\"Hamilton\", \"Sense8\", \"The Witcher\", \"Westworld\")\n\n\nSuccess! That last line is something I can copy. 😃 And…it only took approximately 1000 hours of googling to find dput() 🙈 Eventually the Similar questions that pop-up just before you create a stackoverflow question came to the rescue.\nIt would be really cool to immediately copy the output of the dput() statement to the clipboard. There is the clipr package which looks promising, but that is something for another evening."
+    "text": "For week 33 of #TidyTuesday 2022 I had to manually select names from a dataset. So, I typed something like\n\nfilter(df, name %in% c(\"The Witcher\", \"Hamilton\", \"Westworld\", \"Sense8\"))\n\nDo you see what’s wrong with this? No? Congratulations 🎉, you have a much healthier, more pragmatic approach to coding than I do.\nI, on the other hand, was bothered by the fact that the series names were not in alphabetical order. But, “hey”, I thought, R is a “well-developed, simple and effective programming language”, so why not use it to bring my source code into alphabetical order.\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe context is not really important, so I won’t go into detail on what this dataset was about. The trick is super generally and applies to many situations anyways. But you can see my final plot on Twitter and the accompanying blog post on my website.\n\n\n\n\n\n\nMy goal is to get alphabetically sorted output that I can simply copy + paste into my source file (or write to the file with write_lines()).\n\nx &lt;- c(\"The Witcher\", \"Hamilton\", \"Westworld\", \"Sense8\")\nprint(x)\n\n[1] \"The Witcher\" \"Hamilton\"    \"Westworld\"   \"Sense8\"     \n\ndput(sort(x))\n\nc(\"Hamilton\", \"Sense8\", \"The Witcher\", \"Westworld\")\n\n\nSuccess! That last line is something I can copy. 😃 And…it only took approximately 1000 hours of googling to find dput() 🙈 Eventually the Similar questions that pop-up just before you create a stackoverflow question came to the rescue.\nIt would be really cool to immediately copy the output of the dput() statement to the clipboard. There is the clipr package which looks promising, but that is something for another evening."
   },
   {
     "objectID": "index.html",
@@ -95,7 +95,7 @@
     "href": "blog.html",
     "title": "Blog",
     "section": "",
-    "text": "Excess attraction in the Bundesliga\n\n\nWhich teams would have the most members if location was the only thing that mattered?\n\n\n\ninteractive\n\n\nfootball\n\n\n\n\n\n\n\n\n\nAug 18, 2022\n\n\nYebelay\n\n\n\n\n\n\n\n\n\n\n\n\nAlphabetically sorting your source code character vectors\n\n\nNeat little tricks, Episode 1\n\n\n\nneat-tricks\n\n\n\n\n\n\n\n\n\nAug 17, 2022\n\n\nYebelay\n\n\n\n\n\n\n\n\n\n\n\n\nA fancy title\n\n\n#tidytuesday data visualization with R, ggplot and A COOL PACKAGE\n\n\n\ntidytuesday\n\n\ndataviz\n\n\nhow-to\n\n\n\n\n\n\n\n\n\nAug 16, 2022\n\n\nYebelay\n\n\n\n\n\n\n\n\n\n\n\n\nHow far does that ferris wheel roll?\n\n\n#tidytuesday data visualization with R, ggplot and ggimage\n\n\n\ntidytuesday\n\n\ndataviz\n\n\nhow-to\n\n\n\n\n\n\n\n\n\nAug 9, 2022\n\n\nYebelay\n\n\n\n\n\n\n\n\n\n\n\n\nBuild a simple website with R and Quarto in under 30 10 minutes.\n\n\nAnd then spend hours tweaking it.\n\n\n\nquarto\n\n\nhow-to\n\n\n\n\n\n\n\n\n\nAug 6, 2022\n\n\nPhilipp Kollenda\n\n\n\n\n\n\nNo matching items"
+    "text": "Excess attraction in the Bundesliga\n\n\nWhich teams would have the most members if location was the only thing that mattered?\n\n\n\ninteractive\n\n\nfootball\n\n\n\n\n\n\n\n\n\nAug 18, 2022\n\n\nHaymanot\n\n\n\n\n\n\n\n\n\n\n\n\nAlphabetically sorting your source code character vectors\n\n\nNeat little tricks, Episode 1\n\n\n\nneat-tricks\n\n\n\n\n\n\n\n\n\nAug 17, 2022\n\n\nHaymanot\n\n\n\n\n\n\n\n\n\n\n\n\nA fancy title\n\n\n#tidytuesday data visualization with R, ggplot and A COOL PACKAGE\n\n\n\ntidytuesday\n\n\ndataviz\n\n\nhow-to\n\n\n\n\n\n\n\n\n\nAug 16, 2022\n\n\nHaymanot\n\n\n\n\n\n\n\n\n\n\n\n\nHow far does that ferris wheel roll?\n\n\n#tidytuesday data visualization with R, ggplot and ggimage\n\n\n\ntidytuesday\n\n\ndataviz\n\n\nhow-to\n\n\n\n\n\n\n\n\n\nAug 9, 2022\n\n\nHaymanot\n\n\n\n\n\n\n\n\n\n\n\n\nBuild a simple website with R and Quarto in under 30 10 minutes.\n\n\nAnd then spend hours tweaking it.\n\n\n\nquarto\n\n\nhow-to\n\n\n\n\n\n\n\n\n\nAug 6, 2022\n\n\nPhilipp Kollenda\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "pages/education.html",
@@ -109,7 +109,7 @@
     "href": "pages/exprience.html",
     "title": "Expreniece",
     "section": "",
-    "text": "Lecturer at: “Assosa University” from ‘2017-10-23’ to Present: ’’\nBiostatistician at: Loza Statistical consultancy and training Service Plc from ‘2022-05-01’ to ‘2023-04-30’\nData Manager Remotely at Jeju Resear and statistical consultancy plc from ‘2023-05-05’ to present"
+    "text": "Lecturer at: “Assosa University” from ‘2017-10-23’ to Present: ’’\nBiostatistician at: Loza Statistical consultancy and training Service Plc from ‘2022-05-01’ to ‘2023-04-30’\nData Manager Remotely at Jeju Research and statistical consultancy plc from ‘2023-05-05’ to present"
   },
   {
     "objectID": "pages/publication.html",
@@ -158,7 +158,7 @@
     "href": "pages/about.html#education",
     "title": "About me",
     "section": "Education",
-    "text": "Education\n\nBahir Dar University, Ethiopia| Bahir Dar, Ethiopia\n\nMSc in Clinical Biostatistics| Sptember 2020 - August 2022\n\nDebre Markos University, Ethiopia| Debre Markos, Ethiopia\n\nBSc in Statistics | September 2014 - July 2017"
+    "text": "Education\n\nBahir Dar University, Ethiopia| Bahir Dar, Ethiopia\n\nMSc in Clinical Biostatistics| Sptember 2020 - August 2022\n\nDebre Markos University, Ethiopia| Debre Markos, Ethiopia\n\nBSc in Statistics | September 2014 - July 2017\n\nAfrica Leadership Group(ALX)\n\nVertiual Assistant and Data Analyst | Agust 2022"
   },
   {
     "objectID": "pages/about.html#experience",
@@ -194,5 +194,12 @@
     "title": "Lecture Notes",
     "section": "",
     "text": "The Page is Under preparation"
+  },
+  {
+    "objectID": "posts/nt_alphabetic-sorting/index.html#how-to-programatically-sort-your-source-code-into-alphabetical-order.",
+    "href": "posts/nt_alphabetic-sorting/index.html#how-to-programatically-sort-your-source-code-into-alphabetical-order.",
+    "title": "Alphabetically sorting your source code character vectors",
+    "section": "",
+    "text": "My goal is to get alphabetically sorted output that I can simply copy + paste into my source file (or write to the file with write_lines()).\n\nx &lt;- c(\"The Witcher\", \"Hamilton\", \"Westworld\", \"Sense8\")\nprint(x)\n\n[1] \"The Witcher\" \"Hamilton\"    \"Westworld\"   \"Sense8\"     \n\ndput(sort(x))\n\nc(\"Hamilton\", \"Sense8\", \"The Witcher\", \"Westworld\")\n\n\nSuccess! That last line is something I can copy. 😃 And…it only took approximately 1000 hours of googling to find dput() 🙈 Eventually the Similar questions that pop-up just before you create a stackoverflow question came to the rescue.\nIt would be really cool to immediately copy the output of the dput() statement to the clipboard. There is the clipr package which looks promising, but that is something for another evening."
   }
 ]

@@ -3,7 +3,7 @@ project:
 
 website:
   site-url: "https://haymanot.netlify.app"
-  title: "Haymanot Berelie Berehan"
+  title: "Haymanot"
   description: "Welcome to my website"
   navbar:
     left:

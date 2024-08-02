@@ -3,7 +3,7 @@
     "path": "F:/Website/blog.qmd",
     "project_path": "blog.qmd",
     "type": "quarto_markdown",
-    "hash": "1354015818",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1722436202131.0,
@@ -11,7 +11,9 @@
     "relative_order": 3,
     "properties": {
         "source_window_id": "",
-        "Source": "Source"
+        "Source": "Source",
+        "cursorPosition": "7,16",
+        "scrollLine": "0"
     },
     "folds": "",
     "lastKnownWriteTime": 1722423258,
