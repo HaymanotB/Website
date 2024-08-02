@@ -3,7 +3,7 @@
     "path": "F:/Website/pages/exprience.qmd",
     "project_path": "pages/exprience.qmd",
     "type": "quarto_markdown",
-    "hash": "2255338838",
+    "hash": "130966474",
     "contents": "",
     "dirty": false,
     "created": 1722436438078.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "15,49",
+        "cursorPosition": "17,0",
         "scrollLine": "2"
     },
     "folds": "",
-    "lastKnownWriteTime": 1722632772,
+    "lastKnownWriteTime": 1722632903,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1722632772699,
+    "last_content_update": 1722632903891,
     "read_only": false,
     "read_only_alternatives": []
 }

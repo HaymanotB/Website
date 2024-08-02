@@ -3,7 +3,7 @@
     "path": "F:/Website/pages/lecture.qmd",
     "project_path": "pages/lecture.qmd",
     "type": "quarto_markdown",
-    "hash": "3667945581",
+    "hash": "312063104",
     "contents": "",
     "dirty": false,
     "created": 1722436265304.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "7,4",
+        "cursorPosition": "7,33",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1722632725,
+    "lastKnownWriteTime": 1722633063,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1722632725061,
+    "last_content_update": 1722633063262,
     "read_only": false,
     "read_only_alternatives": []
 }
