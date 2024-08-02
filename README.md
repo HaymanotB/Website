@@ -1,2 +1,2 @@
 # Website
-Build quarto-powered website https://philippkollenda.com
+use powerd quarto to build personal website  
