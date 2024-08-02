@@ -37,9 +37,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Haymanot Berelie Berehan",
+    "title": "Haymanot Berehan",
     "section": "",
-    "text": "Welcome to my website.\nI am a Biostatistician"
+    "text": "I am a Biostatistician"
   },
   {
     "objectID": "pages/teaching.html",
@@ -79,9 +79,9 @@
   {
     "objectID": "pages/about.html",
     "href": "pages/about.html",
-    "title": "About",
+    "title": "About me",
     "section": "",
-    "text": "I have dual master’s degrees in Biostatistics from Stellenbosch University and Statistics from Addis Ababa University, coupled with 11+ years of experience in project leading, data management, analysis, and teaching. These experiences equipped me with a deep understanding of complex data, its management, analysis and use with application of different statistical methods. I have interest in causal inference, longitudinal data analysis and survival data analysis. I have a piece of statistical software training experiences (R, SAS, SPSS)."
+    "text": "I have a master’s degrees in clinical Biostatistics from Bahir Dar University and and BSc degree in Statistics at Debre Markos University, coupled with 7+ years of experience in project leading, data management, analysis, and teaching. These experiences equipped me with a deep understanding of complex data, its management, analysis and use with application of different statistical methods. I have interest in Data science, longitudinal data analysis and survival data analysis. I have a piece of statistical software training experiences (R, SAS, SPSS, STATA, ArcGIS)."
   },
   {
     "objectID": "pages/presentations.html",
@@ -156,9 +156,9 @@
   {
     "objectID": "pages/about.html#education",
     "href": "pages/about.html#education",
-    "title": "About",
+    "title": "About me",
     "section": "Education",
-    "text": "Education\n\nStellenbosch University, South Africa| CapeTown\n\nMSc in Biostatistics|January 2020 - April 2022\n\nAddis Ababa University, Ethiopia| Addis Ababa, Ethiopia\n\nMSc in Statistics(Biostatistics)| Sptember 2015 - July 2017\n\nWollo University, Ethiopia| Dessie, Ethiopia\n\nBSc in Statistics | September 2009 - July 2012"
+    "text": "Education\n\nBahir Dar University, Ethiopia| Bahir Dar, Ethiopia\n\nMSc in Clinical Biostatistics| Sptember 2020 - August 2022\n\nDebre Markos University, Ethiopia| Debre Markos, Ethiopia\n\nBSc in Statistics | September 2014 - July 2017"
   },
   {
     "objectID": "pages/about.html#experience",

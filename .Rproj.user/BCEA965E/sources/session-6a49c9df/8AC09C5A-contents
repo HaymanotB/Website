@@ -27,10 +27,7 @@ website:
 format:
   html:
     # page-layout: full
-    theme:
-      light: flatly
-      dark: darkly
-    # css: styles.css
+    theme: theme.scss
 # Other nice themes: lumen, sandstone (with dark banner) or flatly & darkly
 
 

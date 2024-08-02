@@ -1,26 +1,26 @@
 {
-    "id": "55AED46E",
-    "path": "F:/Website/pages/exprience.qmd",
-    "project_path": "pages/exprience.qmd",
+    "id": "0F952DE4",
+    "path": "F:/Website/pages/about.qmd",
+    "project_path": "pages/about.qmd",
     "type": "quarto_markdown",
-    "hash": "2931935962",
+    "hash": "1315617452",
     "contents": "",
     "dirty": false,
-    "created": 1722436438078.0,
+    "created": 1722631644393.0,
     "source_on_save": false,
-    "relative_order": 6,
+    "relative_order": 8,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "16,33",
-        "scrollLine": "3"
+        "cursorPosition": "1,16",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1722437056,
+    "lastKnownWriteTime": 1722632441,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1722437056941,
+    "last_content_update": 1722632441518,
     "read_only": false,
     "read_only_alternatives": []
 }
