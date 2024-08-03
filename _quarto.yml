@@ -3,7 +3,7 @@ project:
 
 website:
   site-url: "https://haymanot.netlify.app"
-  title: "Haymanot"
+  title: "Home"
   description: "Welcome to my website"
   navbar:
     left:
@@ -15,7 +15,7 @@ website:
       
       
     right:
-      - text: blog
+      - text: Blog
         href: https://himi-be-my.blogspot.com/
       - icon: github
         href: https://github.com/HaymanotB
