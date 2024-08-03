@@ -11,3 +11,8 @@
 [1,"GET: /pages/about.html\n"]
 [1,"GET: /pages/about.html\n"]
 [1,"GET: /pages/about.html\n"]
+[1,"pandoc \n"]
+[1,"  to: html\n  output-file: index.html\n  standalone: true\n  title-prefix: Haymanot\n  section-divs: true\n  html-math-method: mathjax\n  wrap: none\n  default-image-extension: png\n  toc: false\n  \nmetadata\n"]
+[1,"  document-css: false\n  link-citations: true\n  date-format: long\n  lang: en\n  theme: theme.scss\n  title: Haymanot Berehan\n  image: pages/images/img1.jpg\n  about:\n    template: jolla\n    image-shape: round\n    image-width: 20em\n    links:\n      - icon: LinkedIn\n        text: LinkedIn\n        href: 'https://www.linkedin.com/in/haymanot-berelie-360675120/'\n      - icon: github\n        text: GitHub\n        href: 'https://github.com/HaymanotB/'\n      - icon: envelope\n        text: Email\n        href: 'mailto:him12br@gmail.com'\n  \n"]
+[1,"Output created: _site\\index.html\n\nWatching files for changes\n"]
+[1,"GET: /\n"]
