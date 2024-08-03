@@ -2,23 +2,24 @@ project:
   type: website
 
 website:
-  site-url: " "
-  title: "Haymanot Berelie Berehan"
+  site-url: "https://haymanot.netlify.app"
+  title: "Haymanot"
   description: "Welcome to my website"
   navbar:
     left:
       - pages/about.qmd
-      - pages/education.qmd
+      - pages/lecture.qmd
       - pages/exprience.qmd
       - pages/puplications.qmd
       - pages/presentations.qmd
+      
       
     right:
       - blog.qmd
       - icon: github
         href: https://github.com/HaymanotB
   page-footer: 
-    center: "Copyright 2024, Haymanot Berehan" 
+    left:  <span class="faux-block">&#169; 2024 Haymanot Berehan  CC BY-SA 4.0</span>
     border: true
   # repo-url: "https://github.com/HaymanotB/website/"
   # repo-actions: [issue]
@@ -26,10 +27,7 @@ website:
 format:
   html:
     # page-layout: full
-    theme:
-      light: flatly
-      dark: darkly
-    # css: styles.css
+    theme: theme.scss
 # Other nice themes: lumen, sandstone (with dark banner) or flatly & darkly
 
 
