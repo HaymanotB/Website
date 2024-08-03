@@ -15,7 +15,8 @@ website:
       
       
     right:
-      - blog.qmd
+      - text: blog
+        href: https://himi-be-my.blogspot.com/
       - icon: github
         href: https://github.com/HaymanotB
   page-footer: 
