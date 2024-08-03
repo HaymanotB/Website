@@ -1,26 +1,26 @@
 {
-    "id": "55AED46E",
-    "path": "F:/Website/pages/exprience.qmd",
-    "project_path": "pages/exprience.qmd",
+    "id": "30581D21",
+    "path": "F:/Website/blog.qmd",
+    "project_path": "blog.qmd",
     "type": "quarto_markdown",
-    "hash": "130966474",
+    "hash": "1354015818",
     "contents": "",
     "dirty": false,
-    "created": 1722436438078.0,
+    "created": 1722436202131.0,
     "source_on_save": false,
-    "relative_order": 6,
+    "relative_order": 3,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "17,0",
-        "scrollLine": "2"
+        "cursorPosition": "7,16",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1722632903,
+    "lastKnownWriteTime": 1722423258,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1722632903891,
+    "last_content_update": 1722423258,
     "read_only": false,
     "read_only_alternatives": []
 }
