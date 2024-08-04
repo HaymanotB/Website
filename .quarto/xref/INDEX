@@ -52,5 +52,8 @@
   },
   "pages/lecture.qmd": {
     "lecture.html": "0bd9081d"
+  },
+  "home.qmd": {
+    "home.html": "017d4f8b"
   }
 }
