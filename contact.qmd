@@ -19,7 +19,7 @@ resources:
 
 ::: {.g-col-5 #note}
 
-# Send me a note {{< fa feather-pointed >}}
+# contact me {{< fa feather-pointed >}}
 
 You can use this form to contact me about speaking engagements, collaborations, or simply to say hello.
 
