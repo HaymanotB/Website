@@ -1,15 +1,23 @@
 ---
-pagetitle: Haymanot - Contact
-title: contact me
-name: Contact Form
+title: Contact me 
 page-layout: article
+format: 
+  html: 
+    grid:
+      margin-width: 0px
+      sidebar-width: 0px
+
+header-includes: >
+  <link rel="stylesheet" href="contact.css">
+resources:
+  - contact.css
 ---
 
 ::: {.grid}
 
 ::: {.g-col-5 #note}
 
-### contact me
+# contact me {{< fa feather-pointed >}}
 
 You can use this form to contact me about speaking engagements, collaborations, or simply to say hello.
 
@@ -19,7 +27,7 @@ I also love hearing if my educational materials have been helpful for you, and h
 
 ::: {.g-col-6 #form}
 
-<form action="https://formspree.io/f/xvgpaygj" method="POST">
+<form action="https://formspree.io/f/mwkapgzw" method="POST" accept-charset="utf-8">
 
 
 <label for="full-name">Full Name</label>
