@@ -3,7 +3,7 @@
     "path": "F:/Website/home.qmd",
     "project_path": "home.qmd",
     "type": "quarto_markdown",
-    "hash": "3314038650",
+    "hash": "3270384437",
     "contents": "",
     "dirty": false,
     "created": 1722809968933.0,
@@ -11,14 +11,16 @@
     "relative_order": 6,
     "properties": {
         "source_window_id": "",
-        "Source": "Source"
+        "Source": "Source",
+        "cursorPosition": "26,0",
+        "scrollLine": "13"
     },
     "folds": "",
-    "lastKnownWriteTime": 1722631253,
+    "lastKnownWriteTime": 1722857530,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1722631253,
+    "last_content_update": 1722857530114,
     "read_only": false,
     "read_only_alternatives": []
 }
