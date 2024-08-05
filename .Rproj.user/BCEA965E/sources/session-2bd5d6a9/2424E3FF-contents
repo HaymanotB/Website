@@ -1,6 +1,6 @@
 ---
 pagetitle: Haymanot - Contact
-title: contact me
+# title: Send me a note
 name: Contact Form
 page-layout: article
 format: 
@@ -19,7 +19,7 @@ resources:
 
 ::: {.g-col-5 #note}
 
-### contact me
+### Send me a note
 
 You can use this form to contact me about speaking engagements, collaborations, or simply to say hello.
 
