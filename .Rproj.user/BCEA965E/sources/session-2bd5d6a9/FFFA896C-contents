@@ -21,7 +21,7 @@ website:
         href: https://github.com/HaymanotB
       - text: "Contact"
         aria-label: "Contact Form"
-        href: "12.html"
+        href: "contact.qmd"
   page-footer: 
     left:  <span class="faux-block">&#169; 2024 Haymanot Berehan  CC BY-SA 4.0</span>
     border: true
