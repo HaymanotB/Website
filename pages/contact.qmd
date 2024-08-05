@@ -3,16 +3,6 @@ pagetitle: Haymanot - Contact
 title: contact me
 name: Contact Form
 page-layout: article
-format: 
-  html: 
-    grid:
-      margin-width: 0px
-      sidebar-width: 0px
-
-header-includes: >
-  <link rel="stylesheet" href="contact.css">
-resources:
-  - contact.css
 ---
 
 ::: {.grid}
@@ -29,7 +19,7 @@ I also love hearing if my educational materials have been helpful for you, and h
 
 ::: {.g-col-6 #form}
 
-<form action="https://formspree.io/f/xvgpaygj" method="POST" accept-charset="utf-8">
+<form action="https://formspree.io/f/xvgpaygj" method="POST">
 
 
 <label for="full-name">Full Name</label>
