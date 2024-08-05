@@ -1,7 +1,5 @@
 ---
-pagetitle: Haymanot - Contact
-title: contact me 
-name: Contact Form
+title: Contact me 
 page-layout: article
 format: 
   html: 
