@@ -9,11 +9,8 @@ website:
     left:
       - pages/about.qmd
       - pages/lecture.qmd
-      - pages/exprience.qmd
       - pages/puplications.qmd
       - pages/presentations.qmd
-      
-      
       
     right:
       - text: Blog
