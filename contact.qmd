@@ -23,7 +23,7 @@ resources:
 
 You can use this form to contact me about speaking engagements, collaborations, or simply to say hello.
 
-I also love hearing if my educational materials have been helpful for you, and how they could be improved &#8212; particularly if they could be made more accessible {{< bi heart-fill >}}
+I also love hearing if my educational materials have been helpful for you, and how they could be improved &#8212; particularly if they could be made more accessible {{< fa feather-pointed >}}
 :::
 
 
@@ -41,7 +41,7 @@ I also love hearing if my educational materials have been helpful for you, and h
 <label for="message">Message</label>
   <textarea rows="6" name="message" id="message" class="form-control" placeholder="write your message here and click the submit button below👇👇👇" required></textarea>
 
-<button type="submit" class="btn btn-primary mt-4">submit</button>
+<button type="submit" class="btn btn-primary mt-4">Submit</button>
 </form>
 :::
 
