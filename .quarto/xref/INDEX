@@ -55,5 +55,8 @@
   },
   "home.qmd": {
     "home.html": "017d4f8b"
+  },
+  "pages/contact.qmd": {
+    "contact.html": "4b0cd986"
   }
 }

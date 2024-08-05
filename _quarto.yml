@@ -12,6 +12,7 @@ website:
       - pages/exprience.qmd
       - pages/puplications.qmd
       - pages/presentations.qmd
+      - pages/contact.qmd
       
       
     right:
@@ -19,13 +20,8 @@ website:
         href: https://himi-be-my.blogspot.com/
       - icon: github
         href: https://github.com/HaymanotB
-
   page-footer: 
     left:  <span class="faux-block">&#169; 2024 Haymanot Berehan  CC BY-SA 4.0</span>
-    right: 
-      - text: "Contact"
-        aria-label: "Contact Form"
-        href: "contact.qmd"
     border: true
   # repo-url: "https://github.com/HaymanotB/website/"
   # repo-actions: [issue]
